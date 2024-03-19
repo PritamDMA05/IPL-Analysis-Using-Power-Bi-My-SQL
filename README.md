@@ -1,1 +1,2 @@
 # IPL-Analysis-Using-Power-Bi-My-SQL
+This project delves into the Indian Premier League (IPL) using Power BI, uncovering key performance indicators (KPIs) from 2008 to 2022. It identifies the league's leading run-scorer and wicket-taker, along with fascinating trends like venue bias in toss decisions. This data-driven exploration offers valuable insights for fans, strategists, and anyone passionate about the IPL. 
